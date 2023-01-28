@@ -8,7 +8,7 @@
 Mining Pools
 ============
 
-Mining Dash in pools is more likely to generate rewards than solo mining
+mMining Dash in pools is more likely to generate rewards than solo mining
 directly on the blockchain. This is because you are extremely unlikely
 to mine a block as an individual given the current mining difficulty, so
 pooling efforts results in more frequent incremental rewards than
